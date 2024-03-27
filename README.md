@@ -70,7 +70,7 @@ Le Jeu est jouable avec les touches "zqsd" (ou fleches directionnelles) pour se 
 
 ## Installation
 
-- Lancé le fichier .exe (pas le CrashHandle)
+- Lancé le fichier .exe dans le dossier Game
 - Apprécié le jeu
 
 ## Crédits
@@ -150,7 +150,7 @@ The game is playable using the "wasd" keys (or arrow keys) to move and "space" t
 
 ## Installation
 
-- Launch the .exe file (not the CrashHandle)
+- Launch the .exe file in the folder Game
 - Enjoy the game
 
 
